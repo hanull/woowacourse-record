@@ -1,5 +1,7 @@
 # 🎞 woowacourse-record 🎶
-
+<p>
+    <img src="image/cover.png" alt="우아한테크코스 포스터" width="40%" />
+</p>
 
 ## 🥚 프리코스
 ### 기간
