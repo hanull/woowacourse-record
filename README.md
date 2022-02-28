@@ -19,7 +19,9 @@
 - [[Java] 자바 버전 변경하기](https://github.com/hanull/TIL/blob/master/ETC/%EC%9E%90%EB%B0%94%20%EB%B2%84%EC%A0%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0.md)
 - [[Java] Character 클래스 정리](https://github.com/hanull/TIL/blob/master/Java/Character%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%A0%95%EC%A0%81%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
 
-## 🥚 레벨 1 : 프로그래밍 기본 (TDD, OOP, Refactoring, Clean Code)
+<br>
+
+## 🐣 레벨 1 : 프로그래밍 기본 (TDD, OOP, Refactoring, Clean Code)
 ### 기간
 - 2022.02.09 - 2022.04.08
 
