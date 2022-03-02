@@ -37,7 +37,7 @@
 | 자동차 경주 게임  | [java-racingcar/step1](https://github.com/hanull/java-racingcar/tree/step1) | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/337) | [이프](https://github.com/sinb57) | [카일](https://github.com/KIMSIYOUNG) 
 |  | [java-racingcar/step2](https://github.com/hanull/java-racingcar/tree/step2) | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/429) |  | [카일](https://github.com/KIMSIYOUNG) 
 | 로또 | [java-lotto/step1](https://github.com/hanull/java-lotto/tree/step1) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/404) | [주디](https://github.com/jurlring) | [범블비](https://github.com/ddaaac)
-|  | [java-lotto/step2](https://github.com/hanull/java-lotto/tree/step2) | [Pull Request]() |  | [범블비](https://github.com/ddaaac)
+|  | [java-lotto/step2](https://github.com/hanull/java-lotto/tree/step2) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/468) |  | [범블비](https://github.com/ddaaac)
 
 ### 블로그 포스팅
 - [[Java] 불필요한 객체 생성을 피하라](https://hanul-dev.netlify.app/java/%EC%95%84%EC%9D%B4%ED%85%9C6.-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC/)
